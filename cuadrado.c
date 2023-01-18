@@ -5,6 +5,7 @@ int main() {
 	printf("%d\n", numero * numero);
 	printf("Primera impresion\n");
 	
+	printf("Escribe un numero");
 	scanf("%d", &numero);
 
 	return 0;
